@@ -1,7 +1,7 @@
-title: "Jekyll Theme 'Scribbles' preview"
+title: "Jekyll Theme 'Acme' preview"
 description: >
   A minimalistic Jekyll theme recreating the look of plain Markdown file (with some extras)
-url: "https://killercup.github.io/jekyll-theme-scribbles/"
+url: "https://sirnewton01.github.io/jekyll-acme/"
 author: &default_author
   name: Pascal Hertleif
   twitter: killercup
@@ -10,9 +10,9 @@ twitter: # this site's twitter account
   username: killercup
 imprint_url: https://pascalhertleif.de/impressum/
 license_url: https://creativecommons.org/licenses/by-nc/4.0/
-feedback_url: https://github.com/killercup/jekyll-theme-scribbles/issues/new
-repository_url: https://github.com/killercup/jekyll-theme-scribbles
-post_revisions_url: https://github.com/killercup/jekyll-theme-scribbles/commits/gh-pages/
+feedback_url: https://github.com/sirnewton01/jekyll-acme/issues/new
+repository_url: https://github.com/sirnewton01/jekyll-acme
+post_revisions_url: https://github.com/sirnewton01/jekyll-acme/commits/gh-pages/
 
 # theme settings
 colors:
