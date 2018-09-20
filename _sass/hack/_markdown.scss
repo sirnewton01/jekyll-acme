@@ -56,7 +56,7 @@ body {
   margin-top: $lh;
   margin-bottom: $lh;
 }
-.hack h1 {
+/*.hack h1 {
   position: relative;
   display: inline-block;
   display: table-cell;
@@ -64,7 +64,7 @@ body {
   margin: 0;
   overflow: hidden;
 }
-/*.hack h1:after {
+.hack h1:after {
   content: "====================================================================================================";
   position: absolute;
   bottom: 0.8 * $lh;
