@@ -7,6 +7,14 @@ body {
   background-color: #ffffef;
 }
 
+a[href]:before {
+  content:"[";
+}
+
+a[href]:after {
+  content:"] (" attr(href) ")";
+}
+
 .hack {
   word-wrap: break-word;
 }
