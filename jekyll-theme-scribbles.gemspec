@@ -1,12 +1,12 @@
 # coding: utf-8
 
 Gem::Specification.new do |spec|
-  spec.name          = "jekyll-theme-scribbles"
+  spec.name          = "jekyll-acme"
   spec.version       = "0.1.0"
   spec.authors       = ["Pascal Hertleif"]
   spec.email         = ["killercup@gmail.com"]
 
-  spec.summary       = %q{A minimalistic Jekyll theme recreating the look of plain Markdown file (with some extras)}
+  spec.summary       = %q{A minimalistic Jekyll theme recreating the look of plain Markdown file in the Acme editor (with some extras)}
   spec.homepage      = "https://github.com/killercup/jekyll-theme-scribbles"
   spec.license       = "MIT"
 
