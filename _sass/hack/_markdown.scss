@@ -3,9 +3,12 @@
  * with some modifications
  */
 
+body {
+  background-color: #ffffef;
+}
+
 .hack {
   word-wrap: break-word;
-  background-color: #ffffef;
 }
 .hack,
 .hack h1,
@@ -44,7 +47,7 @@
   margin: 0;
   padding: 0;
 }
-.hack h1,
+/*.hack h1,*/
 .hack p,
 .hack ul,
 .hack dl,
