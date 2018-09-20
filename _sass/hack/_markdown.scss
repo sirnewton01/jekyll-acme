@@ -101,6 +101,9 @@ body {
     padding-right: 0.6rem;
   }
 }
+.hack h1:before {
+  content: "# ";
+}
 .hack h2:before {
   content: "## ";
 }
