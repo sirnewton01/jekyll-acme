@@ -7,6 +7,10 @@ body {
   background-color: #ffffef;
 }
 
+a[href] {
+  text-decoration: none;
+}
+
 a[href]:before {
   content:"[";
 }
