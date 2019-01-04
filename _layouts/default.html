@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<head contenteditable="true">
+<head>
   <meta charset="UTF-8"/>
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   {% include head_meta.html %}
@@ -12,7 +12,7 @@
     {{ include_to_scssify | scssify }}
   </style>
 </head>
-<body>
+<body contenteditable="true">
   <div class="hack container">
     {{content}}
   </div>
